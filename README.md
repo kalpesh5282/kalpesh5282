@@ -27,4 +27,26 @@
 
 ---
 
+## 🎯 **My Projects**  
+
+📌 **[Amazon E-commerce Portal](#)**  
+  - Built with **Java (Servlets, SQL)**.  
+  - Features **User Authentication**, **Error Handling**, and a **Responsive UI**.  
+
+📌 **[React Amazon Clone](#)**  
+  - Developed the **Frontend UI** with React.  
+  - Includes components like **Header**, **Footer**, and **Dynamic Product Display**.  
+
+📌 **[Swiggy Billing App](#)**  
+  - A billing system to enhance **order processing** using **Java**.  
+
+---
+
+## 🏆 **Certifications and Achievements**  
+
+- 📜 **Java Full Stack Development Course**: *Completed at SevenMentor Institute (2023-2024)*.  
+- 🏅 **Internship:** Built the **Amazon E-commerce Portal with User Authentication** project.  
+
+---
+
 
