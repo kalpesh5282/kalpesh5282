@@ -35,7 +35,7 @@
 
 📌 **[React W3school Clone](#)**  
   - Developed the **Frontend UI** with React.  
-  - Includes components like **Header**, **Footer**, and **Dynamic Product Display**.  
+  - Includes components like **Header**, **Footer**.  
 
 📌 **[Swiggy Billing App](#)**  
   - A billing system to enhance **order processing** using **Java**.  
