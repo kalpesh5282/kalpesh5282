@@ -33,7 +33,7 @@
   - Built with **Java (Servlets, SQL)**.  
   - Features **User Authentication**, **Error Handling**, and a **Responsive UI**.  
 
-📌 **[React Amazon Clone](#)**  
+📌 **[React W3school Clone](#)**  
   - Developed the **Frontend UI** with React.  
   - Includes components like **Header**, **Footer**, and **Dynamic Product Display**.  
 
